@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d2a35d-475d-4571-8b0b-9586de3e16a9" name="Changes" comment="Add files via upload">
+    <list default="true" id="68d2a35d-475d-4571-8b0b-9586de3e16a9" name="Changes" comment="removed methods">
+      <change beforePath="$PROJECT_DIR$/.idea/magazin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/magazin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +37,75 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Дигитално Общество Търговище/Домашни/modul 2/magazin2"
+    "last_opened_file_path": "D:/Дигитално Общество Търговище/Домашни/modul 2/magazin2",
+    "settings.editor.selected.configurable": "testing.instrumented.configuration"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.TestForProduct.testPrintProductsSortedByPrice">
+    <configuration name="EmployeeTest.testSortEmployeesBySalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magazin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+      <option name="METHOD_NAME" value="testSortEmployeesBySalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magazin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForProduct" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForProduct.testPrintAllProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magazin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForProduct" />
+      <option name="METHOD_NAME" value="testPrintAllProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForProduct.testPrintProductsSortedByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magazin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForProduct" />
+      <option name="METHOD_NAME" value="testPrintProductsSortedByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForProduct.testPrintProductsSortedByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="magazin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForProduct" />
+      <option name="METHOD_NAME" value="testPrintProductsSortedByPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestForProduct.testPrintProductsSortedByPrice" />
+        <item itemvalue="JUnit.TestForProduct.testPrintProductsSortedByName" />
+        <item itemvalue="JUnit.TestForProduct.testPrintAllProducts" />
+        <item itemvalue="JUnit.TestForProduct" />
+        <item itemvalue="JUnit.EmployeeTest.testSortEmployeesBySalary" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,11 +122,34 @@
       <option name="project" value="LOCAL" />
       <updated>1702201937915</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="removed methods">
+      <created>1702204826683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702204826683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add files via upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add files via upload" />
+    <MESSAGE value="removed methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed methods" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/tests/test/EmployeeTest.java</url>
+          <line>54</line>
+          <properties class="EmployeeTest" method="testSortEmployeesBySalary">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

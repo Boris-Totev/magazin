@@ -355,9 +355,5 @@ public class Product {
             System.out.println("Error saving products to file: " + e.getMessage());
         }
     }
-
-
-
-
 }
 

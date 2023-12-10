@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class ShoppingCart {
     private static List<Product> productsInCart = new ArrayList<>();
+    public static List<Product> getProductsInCart() {
+        return productsInCart;
+    }
+
 
 
     public static void addToShoppingCart() {
@@ -27,7 +31,7 @@ public class ShoppingCart {
         }
     }
 
-    private static Product getProductById(int productId) {
+    protected static Product getProductById(int productId) {
         for (Product product : Product.products) {
             if (product.getProductId() == productId) {
                 return product;
