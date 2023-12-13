@@ -46,24 +46,15 @@ public class Product {
 
         while (true) {
             System.out.println("\nMenu:  \n" +
-                    "1. Print all products \n" +
-                    "2. Print products sorted by name \n" +
-                    "3. Print products sorted by price \n" +
-                    "4. Print products sorted by expiration date \n" +
-                    "5. Print a specific product \n" +
-                    "6. Print products with price greater than or equal to \n" +
-                    "7. Print products with price less than \n" +
-                    "8. Print products with quantity greater than or equal to \n" +
-                    "9. Print products with quantity less than \n" +
-                    "10. Add a new product \n" +
-                    "11. Change product price (by ID) \n" +
-                    "12. Change product quantity (by ID) \n" +
-                    "13. Change product name (by ID) \n" +
-                    "14. Delete a product (by ID) \n" +
-                    "15. Sort employees by name \n" +
-                    "16. Sort employees by salary \n" +
-                    "17. Save and exit \n" +
-                    "18. Exit without saving");
+                    "1. Print all products                                     10. Add a new product \n" +
+                    "2. Print products sorted by name                          11. Change product price (by ID) \n" +
+                    "3. Print products sorted by price                         12. Change product quantity (by ID) \n" +
+                    "4. Print products sorted by expiration date               13. Change product name (by ID) \n" +
+                    "5. Print a specific product                               14. Delete a product (by ID) \n" +
+                    "6. Print products with price greater than or equal to     15. Sort employees by name \n" +
+                    "7. Print products with price less than                    16. Sort employees by salary \n" +
+                    "8. Print products with quantity greater than or equal to  17. Save and exit \n" +
+                    "9. Print products with quantity less than                 18. Exit without saving");
 
             System.out.print("Select an option: ");
             int choice = scanner.nextInt();
