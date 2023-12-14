@@ -4,10 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d2a35d-475d-4571-8b0b-9586de3e16a9" name="Changes" comment="added tests shopping cart">
+    <list default="true" id="68d2a35d-475d-4571-8b0b-9586de3e16a9" name="Changes" comment="edited employee menu">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_12_2023___21_16__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_12_2023_г__21_16_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231130_110422.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231130_110709.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231204_144047.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231204_160409.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231210_123654.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231210_123941.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231212_205726.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231212_205835.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231212_205926.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231212_210230.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20231212_210349.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees.csv" beforeDir="false" afterPath="$PROJECT_DIR$/employees.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazin 2023 12 10.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazin 2023 12 11.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/magazin 2023 12 12.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products_20231130_104356.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/products_20231130_105132.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702494966970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edited employee menu">
+      <created>1702528215663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702528215664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,7 +189,8 @@
     <MESSAGE value="removed methods" />
     <MESSAGE value="added tests" />
     <MESSAGE value="added tests shopping cart" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tests shopping cart" />
+    <MESSAGE value="edited employee menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited employee menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

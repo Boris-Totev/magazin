@@ -8,8 +8,6 @@ public class ShoppingCart {
         return productsInCart;
     }
 
-
-
     public static void addToShoppingCart() {
         Scanner scanner = new Scanner(System.in);
 

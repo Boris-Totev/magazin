@@ -34,7 +34,7 @@ public class Customer {
                     ShoppingCart.calculateTotalPrice();
                     break;
                 case 6:
-                    Product.saveProductsToFile();
+                    Employee.saveProductsToFile();
                     System.out.println("Changes saved to file. Exiting the customer menu. Goodbye!");
                     System.exit(0);
                 case 7:
@@ -49,7 +49,7 @@ public class Customer {
         System.out.println("Available Products:");
         for (Product product : Product.products) {
             if (product.quantity >= 1) {
-                Product.printProductDetails(product);
+                Employee.printProductDetails(product);
             }
         }
     }
@@ -62,7 +62,7 @@ public class Customer {
         System.out.println("Search Results:");
         for (Product product : Product.products) {
             if (product.quantity >= 1 && product.getType().toString().equals(categoryInput)) {
-                Product.printProductDetails(product);
+                Employee.printProductDetails(product);
             }
         }
     }
@@ -75,7 +75,7 @@ public class Customer {
         System.out.println("Search Results:");
         for (Product product : Product.products) {
             if (product.quantity >= 1 && (product.productName.toLowerCase().contains(nameInput) || product.productName.toLowerCase().equals(nameInput))) {
-                Product.printProductDetails(product);
+                Employee.printProductDetails(product);
             }
         }
     }
